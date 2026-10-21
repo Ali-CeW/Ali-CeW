@@ -2,68 +2,76 @@
 
 **Junior NOC Operatörü @ OLFE Data Center** · Software Developer · Network & Cybersecurity Enthusiast
 
-İzmir, Türkiye 🇹🇷
+📍 İzmir, Türkiye 🇹🇷
 
 Ağ ve sistem yönetimi, veri merkezi altyapıları, yazılım geliştirme ve siber güvenlik alanlarında kendimi geliştiriyorum. Gerçek altyapılar üzerinde çalışırken yazılım geliştirme deneyimimi sistem yönetimiyle birleştirerek teknik sorunlara kalıcı çözümler üretmeye odaklanıyorum.
 
 ## 🎯 Şu Anda
 
 - 🖥️ **Data Center & NOC:** Ağ bağlantıları, sunucu yönetimi, donanım sorun giderme ve altyapı operasyonları.
-- 🌐 **Networking:** Cisco ağ teknolojileri, switching, routing, TCP/IP ve ağ sorunlarının analizi.
-- 🐧 **Linux & Systems:** Linux sunucu yönetimi, servisler, ağ yapılandırmaları ve otomasyon.
-- 💻 **Software Development:** TypeScript, JavaScript, Node.js, React ve Next.js ile uygulama geliştirme.
-- 🔐 **Cybersecurity:** Ağ güvenliği, trafik analizi, DDoS koruması ve güvenlik altyapıları.
-- 🤖 **Local AI:** Yerel dil modelleri ve kişisel yapay zekâ araçları üzerinde çalışmalar.
+- 🌐 **Networking:** Cisco, Juniper, switching, routing, TCP/IP ve ağ analizi.
+- 🐧 **Linux & Systems:** Linux sunucu yönetimi, sanallaştırma ve otomasyon.
+- 💻 **Software Development:** TypeScript, JavaScript, Node.js, React ve Next.js.
+- 🔐 **Cybersecurity:** Ağ güvenliği, trafik analizi ve DDoS koruma sistemleri.
+- 🤖 **Local AI:** Yerel dil modelleri ve kişisel yapay zekâ araçları.
 
-## 🛠️ Teknoloji ve Araçlar
+## 🛠️ Teknolojiler
 
-**Programming & Backend**
+**Languages & Frameworks**
 
-`JavaScript` `TypeScript` `Node.js` `Express.js` `React` `Next.js` `REST APIs`
+`JavaScript` `TypeScript` `React` `Next.js` `Node.js` `Express.js` `Python`
 
 **Databases & Services**
 
 `PostgreSQL` `MongoDB` `Firebase` `Supabase` `Cloudinary`
 
-**Networking & Infrastructure**
+**Infrastructure & Networking**
 
-`Cisco` `Juniper` `TCP/IP` `VLAN` `Routing` `Switching` `BGP` `Linux` `VMware ESXi`
+`Linux` `Cisco` `Juniper` `TCP/IP` `VLAN` `BGP` `VMware ESXi`
 
 **DevOps & Tools**
 
 `Git` `GitHub Actions` `Vercel` `Plesk` `Cloudflare` `Bash`
 
-**AI & Computer Vision**
+## 🚀 Projelerim
 
-`Python` `PyTorch` `OpenCV` `LLM` `llama.cpp`
+### 🌐 ACY Hosting
+Hosting ve altyapı hizmetleri üzerine geliştirdiğim kişisel girişim projesi. Web barındırma, DNS, Cloudflare ve dağıtım altyapıları üzerine çalışıyorum.
 
-## 🚀 Öne Çıkan Çalışmalar
+- Website: [acyhosting.tr](https://acyhosting.tr)
 
-### JARVIS — Local AI Assistant
-Yerel dil modelleri ve `llama.cpp` kullanarak geliştirdiğim kişisel yapay zekâ ortamı. Linux yönetimi, kodlama ve teknik analiz iş akışlarını tek bir sistemde birleştirmeyi hedefliyor.
+### 💍 DüğünDavetiye.si
+Dijital davetiye deneyimini modern web teknolojileriyle sunmayı hedefleyen proje.
 
-### ACY Hosting
-Hosting ve altyapı hizmetleri üzerine geliştirdiğim kişisel girişim projesi. Web teknolojileri, dağıtım süreçleri, DNS ve Cloudflare yapılandırmaları üzerine çalışmalar içeriyor.
+- Website: [düğündavetiye.si](https://düğündavetiye.si)
 
-### Web Applications & AI Projects
-React, Next.js, Node.js ve TypeScript ile web uygulamaları; yapay zekâ API entegrasyonları ve otomasyon çözümleri geliştiriyorum.
+### ❤️ Aşkların Bir Tanesi
+Kişiselleştirilebilir romantik web deneyimleri üzerine geliştirdiğim proje. Next.js ve Cloudflare R2 ile medya depolama altyapısı üzerinde çalışıyorum.
+
+- Website: [asklarinbirtane.si](https://asklarinbirtane.si)
+
+### 🤖 JARVIS — Local AI
+Debian Linux üzerinde yerel dil modelleri ve `llama.cpp` kullanarak geliştirdiğim kişisel yapay zekâ ortamı.
+
+### 💻 Web Applications & Automation
+React, Next.js, Node.js ve TypeScript ile web uygulamaları, API entegrasyonları ve otomasyon çözümleri geliştiriyorum.
 
 ## 🎓 Eğitim ve Sertifikalar
 
 - Bilişim Teknolojileri — Programlama, mesleki ve teknik lise mezunu.
 - Cisco CCNAv7 — Introduction to Networks
-- Cisco CCNA — Routing, Switching and Wireless Essentials
+- Cisco CCNA — Switching, Routing and Wireless Essentials
 - Cisco IT Essentials
 - Cisco Introduction to Cybersecurity
 - MEB Ağ Temelleri ve Ağ Veritabanı eğitimleri
 
-## 📌 Şu Anki Hedeflerim
+## 📌 Hedeflerim
 
-- Veri merkezi ve NOC operasyonlarında teknik uzmanlığımı geliştirmek.
-- Routing, switching, Linux ve sanallaştırma konularında derinleşmek.
-- Ağ güvenliği ve DDoS koruma sistemleri hakkında uygulamalı deneyim kazanmak.
-- Yazılım projelerimi sürdürülebilir, güvenli ve üretim ortamına uygun hâle getirmek.
-- Otomasyon ve yerel yapay zekâ sistemleri geliştirmek.
+- Veri merkezi ve NOC operasyonlarında uzmanlaşmak.
+- Ağ teknolojileri, Linux ve sanallaştırma alanlarında derinleşmek.
+- Ağ güvenliği ve DDoS koruma sistemleri üzerinde deneyim kazanmak.
+- Yazılım projelerimi güvenli, ölçeklenebilir ve sürdürülebilir hâle getirmek.
+- Altyapı otomasyonu ve yerel yapay zekâ sistemleri geliştirmek.
 
 ## 🌐 İletişim
 
@@ -73,4 +81,4 @@ React, Next.js, Node.js ve TypeScript ile web uygulamaları; yapay zekâ API ent
 
 ---
 
-*Öğrenmeye, üretmeye ve gerçek sistemler üzerinde deneyim kazanmaya devam ediyorum.*
+*Building software, managing infrastructure, and learning by working with real systems.*
